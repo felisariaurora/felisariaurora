@@ -55,9 +55,28 @@
 
 ### 📊 GitHub Stats
 
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felisariaurora&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felisariaurora&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=felisariaurora&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felisriaurora&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felisariaurora&theme=tokyonight&hide_border=true" alt="streak" />
+  </a>
 </div>
 
 ---
@@ -68,5 +87,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aurora-felisari/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurorafelisari@gmail.com)
-
+<a href="https://github.com/felisariaurora/felisariaurora/blob/main/FelisariAuroraResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-Resume-%232F80ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </div>
