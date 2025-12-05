@@ -8,7 +8,6 @@
   I am a final-year **Master's Student in Computer Science** 🎓 (Expected Graduation: **Q3 2026**).  
   My academic path is unique: I merged a strong **Linguistic background** with advanced **Software Engineering**.
   
-  I specialize in **Safe & Secure Software**, **Artificial Intelligence**, and **Autonomous Driving Technologies**.
 </div>
 
 ---
@@ -24,9 +23,10 @@
 
 ---
 
-### 🧠 Areas of Study & Interest
+### 🧠 Areas of Study
 
-| **🔍 Safety & Formal Methods** | **🤖 AI & Data Science** | **🚗 Robotics & VR** |
+| **Safety & Formal Methods** | **AI & Data Science** | **
+Robotics & VR** |
 |:---:|:---:|:---:|
 | Static Analysis | Machine Learning | Autonomous Driving (ADAS) |
 | Abstract Interpretation | Big Data Mining | Virtual Reality |
@@ -50,34 +50,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
----
-
-### 📊 GitHub Stats
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=felisariaurora&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="stats" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felisriaurora&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felisariaurora&theme=tokyonight&hide_border=true" alt="streak" />
-  </a>
-</div>
 
 ---
 
