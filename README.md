@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6F30D6&center=true&vCenter=true&width=435&lines=Ciao!+I'm+a+CS+Master+Student;Focus:+AI,+Safety+%26+Autonomous+Systems;From+Linguistics+to+Computer+Science;Polyglot:+IT,+EN,+ES,+DE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6F30D6&center=true&vCenter=true&width=600&lines=Ciao!+I'm+a+CS+Master+Student;Focus:+AI,+Safety+%26+Autonomous+Systems;From+Linguistics+to+Computer+Science;Polyglot:+IT,+EN,+ES,+DE" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,6 +8,12 @@
   I am a final-year **Master's Student in Computer Science** 🎓 (Expected Graduation: **Q3 2026**).  
   My academic path is unique: I merged a strong **Linguistic background** with advanced **Software Engineering**.
   
+  <br>
+  
+  <a href="https://github.com/felisariaurora/felisariaurora/blob/main/FelisariAuroraResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-Resume-%232F80ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+
 </div>
 
 ---
@@ -25,8 +31,7 @@
 
 ### 🧠 Areas of Study
 
-| **Safety & Formal Methods** | **AI & Data Science** | **
-Robotics & VR** |
+| **Safety & Formal Methods** | **AI & Data Science** | **Robotics & VR** |
 |:---:|:---:|:---:|
 | Static Analysis | Machine Learning | Autonomous Driving (ADAS) |
 | Abstract Interpretation | Big Data Mining | Virtual Reality |
@@ -57,9 +62,7 @@ Robotics & VR** |
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aurora-felisari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurora-felisari/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurorafelisari@gmail.com)
-<a href="https://github.com/felisariaurora/felisariaurora/blob/main/FelisariAuroraResume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-Resume-%232F80ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-  </a>
+
 </div>
