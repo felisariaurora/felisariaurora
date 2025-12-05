@@ -31,12 +31,15 @@
 
 ### 🧠 Areas of Study
 
+<div align="center">
+
 | **Safety & Formal Methods** | **AI & Data Science** | **Robotics & VR** |
 |:---:|:---:|:---:|
 | Static Analysis | Machine Learning | Autonomous Driving (ADAS) |
 | Abstract Interpretation | Big Data Mining | Virtual Reality |
 | Secure Software Dev | Constraint Programming | 3D Programming |
 
+</div>
 ---
 
 ### 🛠️ Tech Stack
