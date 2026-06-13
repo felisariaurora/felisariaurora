@@ -13,7 +13,7 @@
 
   <br>
 
-  <a href="https://github.com/felisariaurora/felisariaurora/blob/main/FelisariAuroraResume.pdf" target="_blank">
+  <a href="https://github.com/felisariaurora/felisariaurora/blob/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-Resume-%232F80ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 
